@@ -1,0 +1,4 @@
+---Crea Tablespace
+
+CREATE TABLESPACE HACEB DATAFILE 
+'C:\oraclexe\app\oracle\oradata\XE\haceb.dbf' SIZE 100M;
